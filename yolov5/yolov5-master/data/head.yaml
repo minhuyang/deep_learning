@@ -1,0 +1,5 @@
+train: /home/yangmh/deep_learning/yolov5/data/head_train_data/train_test_txt/train.txt
+val: /home/yangmh/deep_learning/yolov5/data/head_train_data/train_test_txt/test.txt
+
+nc: 1
+names: ['head']
